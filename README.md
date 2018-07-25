@@ -9,7 +9,7 @@ required:
 download COCO dataset:
     bash get_coco_dataset.sh
 
-Testting:
+Testing:
     You need to rectify the directory(cause that I used many absolute path) in the test_images.py
 Training:
     You need to rectify the directory(cause that I used many absolute path) in the training.py
