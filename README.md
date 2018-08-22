@@ -1,5 +1,5 @@
 # PyTorch-YOLOv3
-Forked from BoLiu's Pytorch-YOLOv3
+Similar to BoLiu's Pytorch-YOLOv3
 Full implementation of YOLOv3 in PyTorch.
 
 Required:
