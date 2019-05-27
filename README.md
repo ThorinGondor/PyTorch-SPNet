@@ -1,6 +1,5 @@
-# PyTorch-YOLOv3
-Similar to BoLiu's Pytorch-YOLOv3
-Full implementation of YOLOv3 in PyTorch.
+# PyTorch-SPNet
+Enhanced One-Stage Network
 
 Required:
     pytorch: 0.4.0
